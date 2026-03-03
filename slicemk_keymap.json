@@ -1,5 +1,5 @@
 {
-	"Modified": "2026-03-03T04:40:40.005123038Z",
+	"Modified": "2026-03-03T05:10:24.516624861Z",
 	"Keyboard": "ergodox",
 	"Board": "slicemk_ergodox_202205_green_left",
 	"Shield": "slicemk_ergodox_leftcentral",
@@ -1181,9 +1181,11 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&bt",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"BT_CLR"
+					]
 				},
 				{
 					"Name": "",
