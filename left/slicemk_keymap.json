@@ -1,5 +1,5 @@
 {
-	"Modified": "2026-03-04T19:32:12.138901466Z",
+	"Modified": "2026-03-07T06:13:20.938971442Z",
 	"Keyboard": "ergodox",
 	"Board": "slicemk_ergodox_202205_green_left",
 	"Shield": "slicemk_ergodox_leftcentral",
@@ -179,19 +179,15 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&kp",
+					"Behavior": "&none",
 					"Notes": "",
-					"Args": [
-						"LEFT_BRACKET"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
-					"Behavior": "&kp",
+					"Behavior": "&none",
 					"Notes": "",
-					"Args": [
-						"RIGHT_BRACKET"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
@@ -805,15 +801,19 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"LEFT_BRACKET"
+					]
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"RIGHT_BRACKET"
+					]
 				},
 				{
 					"Name": "",
@@ -893,9 +893,11 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&none",
+					"Behavior": "&kp",
 					"Notes": "",
-					"Args": []
+					"Args": [
+						"COLON"
+					]
 				},
 				{
 					"Name": "",
