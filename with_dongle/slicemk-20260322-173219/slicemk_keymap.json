@@ -1,5 +1,5 @@
 {
-	"Modified": "2026-03-14T04:45:02.733981858Z",
+	"Modified": "2026-03-22T17:32:19.806101551Z",
 	"Keyboard": "ergodox",
 	"Board": "raytac_mdbt50q_rx_green",
 	"Shield": "slicemk_ergodox_dongle",
@@ -765,6 +765,18 @@
 				},
 				{
 					"Name": "",
+					"Behavior": "&none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "&none",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
 					"Behavior": "&kp",
 					"Notes": "",
 					"Args": [
@@ -778,18 +790,6 @@
 					"Args": [
 						"RIGHT_BRACE"
 					]
-				},
-				{
-					"Name": "",
-					"Behavior": "&none",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "&none",
-					"Notes": "",
-					"Args": []
 				},
 				{
 					"Name": "",
@@ -1171,11 +1171,9 @@
 				},
 				{
 					"Name": "",
-					"Behavior": "&kp",
+					"Behavior": "&none",
 					"Notes": "",
-					"Args": [
-						"A"
-					]
+					"Args": []
 				},
 				{
 					"Name": "",
